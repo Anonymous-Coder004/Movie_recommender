@@ -1,1 +1,1 @@
-#Movie_recommender Porject is my first project
+#Movie Recommender Project is my first project
